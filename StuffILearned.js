@@ -34,3 +34,51 @@ const person  = {
 
 const walk = person.walk.bind(person);
 walk(); // it will successfully display the 'person' object
+
+
+6. There is a new, quicker way of taking out values from an object.
+
+const address = {
+    street: '',
+    city: '',
+    country: ''
+};
+
+const {street, city, country } = address;
+
+
+
+7. Continuing from point 7, what if you wanted to take out the property 'city', and give it a new name?
+
+const{ city: mahCity } = address; //mahCity is the name of the variable I'm going to use to store the value of address.city.
+
+
+8. Spread operators (3 dots can be used for arrays as well as objects).
+
+For e.g.:
+const moo = {wer: 'wer'};
+const meow = {sdf: 'sdf'};
+
+const combine = {...moo, ...meow}; //a new object holding properties of both the above objects
+
+
+9. export and export default
+
+These two keywords are used to make a class/function/variable etc visible to other files. default allows us to import without having to use {}.
+
+For e.g.:
+File 1:
+export class Teacher {
+
+}
+
+File 2:
+import {Teacher} from './teacher'
+
+File 3:
+export default class Meow {
+
+}
+
+File 4:
+import Meow from './meow'
