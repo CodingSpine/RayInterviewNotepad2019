@@ -160,5 +160,45 @@
         var sayHelloJon = say.bind(person1);
         var sayHelloKelly = say.bind(person2);
 
-        sayHelloJon(); // Hello Jon Kuperman
-        sayHelloKelly(); // Hello Kelly King
+        sayHelloJon('Hello'); // Hello Jon Kuperman
+        sayHelloKelly('Hello'); // Hello Kelly King
+
+
+15. Hoisting - when a declaration of a function or variable is moved to the top of the file by the JS engine at runtime.
+
+16. Rest - a quick way of initializing variables
+
+    const { first, second, ...others } = {
+        first: 1,
+        second: 2,
+        third: 3,
+        fourth: 4,
+        fifth: 5
+    }
+    first // 1
+    second // 2
+    others // { third: 3, fourth: 4, fifth: 5 }
+
+
+17. Object destructuring - Extracting some properties and putting them into variables.
+
+    const person = {
+      firstName: 'Tom',
+      lastName: 'Cruise',
+      actor: true,
+      age: 54 //made up
+    }
+    const { firstName: name, age } = person //name: Tom, age: 54
+
+
+18. static - Just like in Java, JS has static keyword that allows you to call a method on the Class itself rather than the instance.
+
+    class Person {
+      static genericHello() {
+        return 'Hello'
+      }
+    }
+    Person.genericHello() //Hello
+
+
+19. Higher order functions are those which execute other functions when the latter are passed as arguments
