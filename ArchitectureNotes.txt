@@ -36,3 +36,22 @@ What is EC2 and S3?
 EC2 = scalable computing
 S3 = scalable storage
 Both are Cloud services provided by Amazon
+
+
+What are the general things we can do to reduce potential problems as systems become more complex?
+ - Don't use centralized DBs
+ - Use microservices
+ - Use containers
+
+
+What are the features of a microservice?
+ - Microservices remove the database as a coupling device. The scary and counter-intuitive idea is that each service has its own database.
+ - Microservices gives each team and independent ability to change what they do.
+ - Lowering friction allows change to happen faster.
+ - A microservice does one thing well.
+ - A microservices is independently deployable. A federated architecture. Services can be deployed independently of any other service, with the constraint that they don’t break their service contract.
+ - A micro service is created by a small team that contains all the skills necessary to build, deploy, and manage the service. The team has end-to-end responsibility for the service.
+
+
+
+A good tip about about microservices: Microservices usually grow successfully from monoliths. Success stories come from companies that started with monoliths because they were able to learn their domain and make good decisions about microservice partitions.
