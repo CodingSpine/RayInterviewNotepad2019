@@ -202,3 +202,11 @@
 
 
 19. Higher order functions are those which execute other functions when the latter are passed as arguments
+
+
+20. A mixin is a group of functions that can be added to an object. It is useful when you want to add the same set of functions to objects that are not related (and hence inheritance isn't the right option)
+    let flyMixin = function(obj) {
+        obj.fly = function() {
+            console.log("Flying, wooosh!");
+        }
+    };
