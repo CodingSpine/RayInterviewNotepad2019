@@ -25,3 +25,14 @@ https://www.citrix.com/en-in/glossary/load-balancing.html
 
 What is Hadoop?
 It is an open-source data platform or framework developed in Java, dedicated to store and analyze the large sets of unstructured data.
+
+
+What is CDN?
+Content Delivery Network.
+A distributed data delivery network all around the world, holding duplicate data so that data does not have to travel large distances no matter where the end user is. It is used often for data that is in high demand, e.g. viral YouTube videos.
+
+
+What is EC2 and S3?
+EC2 = scalable computing
+S3 = scalable storage
+Both are Cloud services provided by Amazon
