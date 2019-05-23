@@ -1,3 +1,5 @@
 1. Every month Netflix causes one of its CDN centres to fail on purpose just to test that the system will automatically reroute all traffic from its other CDNs.
 2. Netflix creates custom thumbnails (called header images) for every user for any movie or T.V. show that's in their recommendation list, based on the user's interests.
 3. Netflix has large portions of their databases sitting at the ISPs themselves, instead of their own offices or a 3rd party cloud DB. Why? Because Netflix consumes so much of the Internet in the US (37%), that if the database wasn't sitting directly at the ISP, even more bandwidth would have to be used to make the connection between the end user and Netflix DBs to stream videos. This puts a huge load on ISPs, and so they accepted Netflix's request to store the DBs on their own network for free.
+
+4. The 7 Stages of Scaling Web Apps http://highscalability.com/blog/2008/9/23/the-7-stages-of-scaling-web-apps.html
