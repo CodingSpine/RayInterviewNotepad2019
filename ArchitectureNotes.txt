@@ -55,3 +55,14 @@ What are the features of a microservice?
 
 
 A good tip about about microservices: Microservices usually grow successfully from monoliths. Success stories come from companies that started with monoliths because they were able to learn their domain and make good decisions about microservice partitions.
+
+
+
+What is GFS?
+A shared disk cluster file system used on Linux machines.
+
+
+
+A good tip about accessing large amounts of data - any data which is massive and accessed often are better to be saved in RAM memory than in DB. For example, a Twitter user's home page.
+These data 
+Examples of tools that help store in RAM memory are MemCache and Redis.
