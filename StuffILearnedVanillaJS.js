@@ -217,3 +217,10 @@
     - The functions that take a function as an argument, or return a function as a return value are called higher order functions.
     - When the functions are passed in to another function or returned from another function, then those functions which gets passed in or returned can be called a lambda.
     - Callbacks = lambda?
+
+
+polyfills
+
+event delegation without jquery
+
+fetch API
