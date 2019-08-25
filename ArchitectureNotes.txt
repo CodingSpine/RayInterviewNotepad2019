@@ -49,7 +49,7 @@ What are the features of a microservice?
  - Microservices gives each team and independent ability to change what they do.
  - Lowering friction allows change to happen faster.
  - A microservice does one thing well.
- - A microservices is independently deployable. A federated architecture. Services can be deployed independently of any other service, with the constraint that they don’t break their service contract.
+ - A microservice is independently deployable. A federated architecture. Services can be deployed independently of any other service, with the constraint that they don’t break their service contract.
  - A micro service is created by a small team that contains all the skills necessary to build, deploy, and manage the service. The team has end-to-end responsibility for the service.
 
 
@@ -64,5 +64,4 @@ A shared disk cluster file system used on Linux machines.
 
 
 A good tip about accessing large amounts of data - any data which is massive and accessed often are better to be saved in RAM memory than in DB. For example, a Twitter user's home page.
-These data 
 Examples of tools that help store in RAM memory are MemCache and Redis.
