@@ -217,6 +217,18 @@
     - The functions that take a function as an argument, or return a function as a return value are called higher order functions.
     - When the functions are passed in to another function or returned from another function, then those functions which gets passed in or returned can be called a lambda.
     - Callbacks = lambda?
+	
+	
+22. A new way to do for loop in ES6: use "for... of" instead of "for...in".
+	For...of is meant particularly for iteration through collections (like Arrays, Sets, and even a String). For...in is used to loop through properties of
+	an object.
+	E.g.:
+		let S = "meow";
+		for (character of S){// this returns the visual value of the character. If we used for...in, we would have got the ASCII value of the character.
+            if (character === 'w') {
+                console.log('www');
+            }
+        }
 
 
 polyfills
