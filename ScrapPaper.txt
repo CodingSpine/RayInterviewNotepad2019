@@ -1,0 +1,74 @@
+Every Single Thing I Know
+    (Concepts I Know)
+    ES6
+    Microservices
+    Agile
+    DevOps
+    Restful Services
+    UML diagram
+    Automation
+    Responsive Development
+
+    (Languages, Libs and Frameworks I Know)
+    JavaScript
+    Knockout
+    React
+    React Native
+    NodeJS
+    Jasmine
+    OracleJET
+    MongoDB
+    CSS3
+    Python
+    Java
+    jQuery
+    Shell
+    Powershell Scripting
+
+    (Tools I know)
+    Docker
+    Jenkins
+    Git
+    Jira
+
+--------------------------------------------
+Things I know Really well and want to get jobs in
+JavaScript
+React
+jQuery
+NodeJS
+
+--------------------------------------------
+Things I Need to Learn to advance my career
+Machine Learning
+PWA
+Redis
+Redux
+
+
+Consider applying for these jobs
+https://www.linkedin.com/jobs/view/1449675657/?alternateChannel=jymbii&alternateCode=seturl&eBP=CwEAAAFsyIre00jIuAOPp3UeSmlIFMq43Z-xExFq-2soq14bSrvB8IjouA-rc46N7VYmXUZYknwELuSGz_EbAsAx4KFyQeMSu6V8pFksdnwBFSgBjrZyj6QCnTdZxYeucPtT2fR91l3jiw_O5R2oUAAsXWlyctoPDHyr86WJWGQVO9y3VsjW80_TYbg0rqsG5H1mPKjytyor4KgPST1w-QzXadswbcw84vV0TPFeiQ6K7-5L2I3T8LqxWxo8A5WZZfaDYvr3dxwS5OzHodoKA135DBTlDDvzajpgDT1tpEECTxnT5PJK_Ek8MgRHlPaDlE13ACoixH3Fg6XqTvgMUA&recommendedFlavor=COMPANY_RECRUIT&refId=65c83792-62fb-484f-8264-a2e95f9245a4&trk=d_flagship3_job_home
+
+https://www.linkedin.com/jobs/view/1441730940/?alternateChannel=jymbii&alternateCode=seturl&eBP=CwEAAAFsyIre14gpsewPhE_0iDkOCf8Oo62v8FS5Y7kLFCoZhHfhHux9-3TJ2IFmAlUkrXId9fxwICMrHUb1YLjaloCYxXlEOjsIy9HaEA6W1PKsDgqA-XaezOIYakky4dSiq5dw9yMTQY2DKBJU12umdZjtmVDWB_covT05JVVJlNTzC14H7fO-b7Cu0lIaOkGAM-W8Pxp10eLvSU5ePoUjGiKXCvgj5c7mxXCHuyux3jFxK8tocDwlQd3Xhc4ofKJCFaNY4W2TY9s5OuGJPY_5C8hJasnHeXqXFrY-GFMs4_Hb3Xn89Twu0TmV05bH4ojjaaE0_EeUAq-r_OSXIg&recommendedFlavor=SCHOOL_RECRUIT&refId=e40d878e-7f36-48b1-aa42-253e1f78c3a3&trk=d_flagship3_job_home
+
+https://www.linkedin.com/jobs/view/1332949251/?alternateChannel=byview&alternateCode=seturl&eBP=CwEAAAFsyFiPWsOGSXhnTCOyHxvshHZyxU8KaHklHYdbXxffIdRf9UWUxoVmgy4bFBjR_vHultYjIuwWhlaH0_ng9LGwpBHDlN5gfIjDGe9-PAaL8untn9sgVcn_AvI3yyCb4J5ChbXxwqcu126lQrYyvRWsbeBLQIt7NqUq8kHF6VhTsoUpmJJvCcB4urBn2tmoKM2LcYeZcu4n6KDuw_Fi6Bp_8DqPyckS9VTfXsWRDywqtxEjzmz4dkPsnDyJ7neEf9V_60sTMIQcO0I5a7OtcJ_EmfnKkBOrSrWw6ZgRuooW0yIk-ifKNMG24mU1M24_EK97VAq9Alm_OBFkjmOwKtU&recommendedFlavor=SCHOOL_RECRUIT&refId=859ce687-0c45-4f90-951c-d864af4bc2fc&trk=d_flagship3_job_home
+
+https://www.linkedin.com/jobs/view/1434323689/?alternateChannel=jymbii&alternateCode=seturl&eBP=CwEAAAFsyF5AaJgZNBsBQ1-EK-vIZVVcYe1Zc2gfED7Oh_Xk2duEbY2HDV8wiKeUcLblHLS7eGP_BgwqV92nCICAlSC7X7TmIf0h5b8RdxOXitgc5YomaKB0CKLghyg7JcANQtliKOhfvI8I95KSRAF--LX8hh2IU0lM7TKDOpH8jxxVNd4qPVo_fx3aYYzdT6Xp2XL0T10ZLeJOalPXX1oaf6FzUJE43Xo1378By3TUjrP-PNAtmwwmGbQNxubUp42XOsi0nxZp5PysFKpCdCdtIm6uzYYSjk_oAJx7Ul0cgYV2mdjYvqosFPGhXZbYFGSiPhYHeUHAi1WaTlSVww&recommendedFlavor=SCHOOL_RECRUIT&refId=65c83792-62fb-484f-8264-a2e95f9245a4&trk=d_flagship3_job_home
+
+https://www.linkedin.com/jobs/view/1451437935/?alternateChannel=jymbii&alternateCode=seturl&eBP=CwEAAAFsyF5AalTgxOIz2i3X9oLS3IxJqYL7M0-vGujJWsMF57rfAL2oG-DVkcjjX6Bk01Ga14roiM616zMuGxlcGcc9uEyyZHKuLXUTLyerKH-8scLYAwcHJbLssPXuh8Ip1Buqmxs4qw8ayhIsruSpWewPdRLd-IIRkxSubvuuz_TWcshG_nlmHnxIic8RleWHa5YlZ4yiFOLxTVoGZ7HxFt2RTZZQSJZa6MQitL7bFD8Zpf1GuJo3d82NP3dxT12CGS1JJZKTVOTsF_YWxNUb-E2KETwR5ArBK_ZcEskc9f3R_jAh0z4Kz7z-AROYrVfCAUMRHkmAdSwVWbCn3A&refId=65c83792-62fb-484f-8264-a2e95f9245a4&trk=d_flagship3_job_home
+
+jobs.forkwell.com
+
+
+
+
+
+My Time Should be divided into:
+1. Learn React -> Learn Redux -> Learn Styled Components (Optional).
+2. Study Udacity Interview course -> LinkedIn Premium questions -> General questions to ask them -> How to Negotiate
+3. Prepare Elevator Pitch, and use it for LinkedIn summary.
+4. Read through technical questions online about JS, React, Node.
+5. Go through existing notes again to memorise a few things.
+6. Improving Pomodoro App -> Make Fishy Time Server (shows my React as well as NodeJS skills).
+7. Study Architecture, System Design
+8. Learn extra stuff for React and NodeJS: Redis, Jest (testing), Async.js, Design Patterns (Factory and Prototype)
