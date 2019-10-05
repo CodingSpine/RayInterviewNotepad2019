@@ -15,10 +15,16 @@ Q: Why do you want to work here?
 A: Make it about them (shows you've done your research, and you care about their needs). You can talk about what YOU want after that. Speak from the heart.
 
 Q: Tell me about a time you showed leadership?
-A: Make stories compelling. Take about the initial events that occurred, and how you dealt with that situation. End story with how you were successful. Talk about gettnig your coworkers on board.
+A: Make stories compelling. Take about the initial events that occurred, and how you dealt with that situation. End story with how you were successful. Talk about getting your coworkers on board.
 
 Q: Tell me about a time you were successful with the team.
 A: Same strategy as above.
 
 Q: What would your coworkers say about you?
 A: Make it relevant to the job description. Show evidence of your statements.
+
+Q: Teach me something in 5 min. (Technical question)
+A:
+
+Q: Tell me about a technical problem you faced and how dealt with it. (Technical question)
+A:
