@@ -73,3 +73,13 @@ My Time Should be divided into:
 7. Improving Pomodoro App -> Make Fishy Time Server (shows my React as well as NodeJS skills).
 8. Study Architecture, System Design
 9. Learn extra stuff for React and NodeJS: Redis, Jest (testing), Async.js, Design Patterns (Factory and Prototype)
+
+
+
+
+Courses I could learn for extra knowledge:
+Typescript: https://scrimba.com/g/gintrototypescript
+D3: https://scrimba.com/g/gd3js
+ES6: https://scrimba.com/g/ges6
+Flexbox: https://scrimba.com/g/gflexbox
+Neural Networks with JS: https://scrimba.com/g/gneuralnetworks
