@@ -28,3 +28,56 @@ A:
 
 Q: Tell me about a technical problem you faced and how dealt with it. (Technical question)
 A:
+
+Q: What are you excited about in Web Development? (Technical question)
+A:
+
+Q: Why are you leaving your current role?
+A: Talk about what you're looking forward to in this new job. Relate it to the job description.
+
+Q: Describe your most challenging project.
+
+
+Q: Tell me something you've accomplished that you're proud of.
+
+MYA: StackOverflow or Python stocks
+
+Q: What are your salary expectations?
+A: Give a range, not a specific number. Justify this range through research you've done.
+
+Q: What do you like to do outside of work?
+A: Give an answer that shows you would be a good cultural fit.
+
+Q: Tell me about a time when you had to manage conflicting priorities.
+MYA: I could talk about working with both FBN consultant and solving bugs for 14.3 release.
+
+Q: Where do you see yourself in 5 years?
+A: Talk about what you can give your employers, rather than what you can take. Break the description into 2-3 years chunk. Talk about the value you are going to deliver. Avoid mentioning job titles.
+
+Q: Tell me about your leadership style.
+A: Maybe give an example. Explain the value your style brought.
+
+Q: Tell me about a time you made a mistake.
+
+
+Q: Tell me about a time you worked with a difficult person.
+A:
+MYA: Sajosh
+
+Q: Tell me about a time when you disagreed with someone.
+MYA: Ganesh: to create buttons as separate components or not.
+
+Q: Tell about a time when you created a goal and achieved.
+MYA: Convincing my team to follow better coding standards.
+
+Q: Tell me about a time you surpassed people's expectations.
+MYA: Scorecard for Credit Evaluation
+
+Q: Tell me about a time you had to handle pressure.
+
+
+Q: Tell me about a time you had to learn something quickly.
+
+
+Q: Do you have questions for me.
+A: Ask them about their careers. How did they get here? What do they do in the company?

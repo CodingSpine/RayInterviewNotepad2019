@@ -64,8 +64,8 @@ jobs.forkwell.com
 
 
 My Time Should be divided into:
-1. Learn React -> Learn Redux -> Learn Styled Components (Optional).
-2. Study Udacity Interview course -> LinkedIn Premium questions -> General questions to ask them -> How to Negotiate
+1. Learn React DONE -> Learn Redux -> Learn Styled Components (Optional).
+2. Study Udacity Interview course DONE -> LinkedIn Premium questions -> General questions to ask them -> How to Negotiate
 3. Prepare Elevator Pitch, and use it for LinkedIn summary.
 4. Read through technical questions online about JS, React, Node. Do 2 leetcode problems per day.
 5. Go through existing notes again to memorise a few things.
