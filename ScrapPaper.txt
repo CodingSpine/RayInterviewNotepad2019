@@ -65,14 +65,14 @@ jobs.forkwell.com
 
 My Time Should be divided into:
 1. Learn React DONE -> Learn Redux -> Learn Styled Components (Optional).
-2. Study Udacity Interview course DONE -> LinkedIn Premium questions -> General questions to ask them -> How to Negotiate
+2. Study Udacity Interview course DONE -> LinkedIn Premium questions DONE -> General questions to ask them -> How to Negotiate
 3. Prepare Elevator Pitch, and use it for LinkedIn summary.
 4. Read through technical questions online about JS, React, Node. Do 2 leetcode problems per day.
 5. Go through existing notes again to memorise a few things.
 6. Start applying -> Remote jobs first.
 7. Improving Pomodoro App -> Make Fishy Time Server (shows my React as well as NodeJS skills).
 8. Study Architecture, System Design
-9. Learn extra stuff for React and NodeJS: Redis, Jest (testing), Async.js, Design Patterns (Factory and Prototype)
+9. Learn extra stuff for React and NodeJS: Redis, Jest (testing), Async.js, Design Patterns (Factory and Prototype) DONE, ES6 DONE
 
 
 
