@@ -81,3 +81,6 @@ Q: Tell me about a time you had to learn something quickly.
 
 Q: Do you have questions for me.
 A: Ask them about their careers. How did they get here? What do they do in the company?
+
+
+Examples of stuff I have automated: shortlist of companies, boilerplate code for web components

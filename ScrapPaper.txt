@@ -83,3 +83,41 @@ D3: https://scrimba.com/g/gd3js
 ES6: https://scrimba.com/g/ges6
 Flexbox: https://scrimba.com/g/gflexbox
 Neural Networks with JS: https://scrimba.com/g/gneuralnetworks
+Design Systems: https://www.invisionapp.com/inside-design/guide-to-design-systems/ (Use this when making a  new website also)
+
+
+
+What are the projects this company thinks are really key to its future and how would a motivated person go about getting on them?
+
+
+You should steal this tactic.  You are an expert in your own skill set, life story, and (ideally) value you can create for the company.  However, the person you are talking to is not.  If they ever resist about something which you want, consider reaching into the treasure chest that they are buying mostly blind and revealing one of the many glittering jewels inside.  They are going to get them all anyhow if they buy the chest, but each one you bring out decreases the perceived risk of buying it and therefor increases its perceived value.
+
+
+
+
+
+
+
+
+Clipboard health's engineering organization is nascent yet seasoned through the responsibility of maintaining heavy usage and growing noteworthy revenue through the products and features that it has built and maintained. Clipboard health has nonetheless only scratched the surface in the space of products and experiences for its users and is thus growing very rapidly.
+
+As a software engineer at Clipboard you will be joining a small organization where your voice will be heard yet carries a large business responsibility. You will not be building things with the hope that people need it but rather filling the desperate needs of our users while innovating in ways they didn't even know they were needing. You'll have to be adaptable, learn quickly and have a interest understanding technical tradeoffs deeply.
+
+You'll additionally be expected to understand the business and user needs that you are solving with the features that you are building. As you'll be the on the frontlines of getting the feature delivered to customers you are expected provide input while you build features in the case that there are better solutions or other considerations that you believe are important that may have not been explicitly asked of you.
+
+Responsibilities
+
+Quickly understand new technologies and lead technical decision making
+Develop critical projects, working with other web engineers.
+Be directly involved in the entire development lifecycle of improvements to existing and launching of new Clipboard Health products
+Work with your team to improve our delivery processes and advocate for building maintainable, high quality code in a distributed codebase.
+Work with React, Node, MongoDB, Ionic
+Minimum Qualifications
+
+5+ years of software engineering work experience
+5+ years experience coding in Javascript
+Have 2+ years of experience working remotely as an engineer on a distributed team
+Care deeply about the details in both well-crafted code and user-facing ships
+Excellent knowledge of: Node, React, MongoDB
+Strong knowledge of JavaScript (ES5, ES6), the DOM, HTML, CSS.
+Have excellent documentation and communication skills.
