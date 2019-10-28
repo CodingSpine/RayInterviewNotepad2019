@@ -230,6 +230,10 @@
             }
         }
 
+23. Difference between undefined and not defined.
+	var a;
+	console.log(a); //declared but undefined
+	console.log(b); //not defined
 
 polyfills
 
