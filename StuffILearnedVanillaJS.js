@@ -1,3 +1,4 @@
+Great site for revising concepts: 'https://quiz.typeofnan.dev/'
 
 1. A function is an object
 2. Never again use var. Use only let and const.
@@ -235,8 +236,46 @@
 	console.log(a); //declared but undefined
 	console.log(b); //not defined
 
-polyfills
+24. Debouncing is a way to group multiple identical events into only one once the trigger has stopped firing to avoid doing     excessive processing.
+    E.g.:
+    var timer;
+    function debounce(callback, delay) {
+    	clearTimeout(timer);
+    	timer = setTimeout(callback, delay);
+    }
 
-event delegation without jquery
+    document.getElementById('search-bar').addEventListener('input', function(event) {
+    	debounce(executeSearch, 300);
+    });
 
-fetch API
+25. Throttling in JS is similar to debouncing. It’s a way to run multiple identical events at regular intervals rather than allowing them to run when triggered.
+
+26. A polyfill is a browser fallback, written in JS, that allows latest features to run on older/outdated browsers. Babel is one of the tools that helps you comile your code into older versions of browsers, using polyfills.
+
+27. Boolean is a function, and the output of Boolean() is false.
+
+28. When checking the equality of an Array to a string, JS first converts the array to a string and then checks the equality.
+    So, the following would return true:
+    var a = [1,2,3];
+    var c = '1,2,3';
+    console.log(a == c);//true
+
+29. console.log(1 < 2 < 3); //true
+    console.log(3 > 2 > 1); //false
+    Reason: 1) JS reads stuff from left to right
+            2) 1 < 2 evaluates to true, and so does 3 > 2
+            3) true is coerced to 1.
+
+30. array.sort() first converts elements to strings before sorting.
+    const arr = [5,1,3,7,25];
+    console.log(arr.sort());//1,25,3,5,7
+
+31. More array coercions.
+    var a = [9];
+    var b = [10];
+    console.log( a == 9);//true
+    console.log( a == 10);//true
+    console.log( a < b);//false
+
+    1) and 2) are true because an array is converted into a number when compared with a number.
+    3) is false because arrays are converted to strings when compared with each other. Evaluation of "9" < "10" is the same as evaluation of "9" < "1", which is false.
