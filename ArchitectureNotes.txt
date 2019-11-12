@@ -65,3 +65,22 @@ A shared disk cluster file system used on Linux machines.
 
 A good tip about accessing large amounts of data - any data which is massive and accessed often are better to be saved in RAM memory than in DB. For example, a Twitter user's home page.
 Examples of tools that help store in RAM memory are MemCache and Redis.
+
+
+Replication - Copying of data to multiple machines in case one or more them fail.
+
+Consistency - When all machines/nodes in a cluster have the same data, so that you read/write from any of them.
+
+Eventual consistency - when there is a time lapse before which all nodes in a cluster become consistent.
+
+Availability - In the context of DBs, it refers to a cluster being always able to respond to queries, irrespective of some nodes going down.
+
+Partition tolerance - A cluster is able to continue functioning even when two nodes are not able to communicate to each other (i.e., they got partitioned).
+
+Vertical scaling - Increasing the resources of a server. e.g. the RAM, CPU.
+Horizontal scaling - Increasing the number of servers.
+
+Sharding -  With most huge systems, data does not fit on a single machine. In such cases, sharding refers to splitting the very large database into smaller, faster and more manageable parts called data shards.
+
+
+CAP Theorem - It states that a distributed system cannot simultaneously guarantee all these 3 - consistency, availability, partition tolerance. http://ksat.me/a-plain-english-introduction-to-cap-theorem/
