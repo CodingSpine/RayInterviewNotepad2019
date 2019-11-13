@@ -65,6 +65,7 @@ A shared disk cluster file system used on Linux machines.
 
 A good tip about accessing large amounts of data - any data which is massive and accessed often are better to be saved in RAM memory than in DB. For example, a Twitter user's home page.
 Examples of tools that help store in RAM memory are MemCache and Redis.
+How to use these softwares effectively - check if a datum is available in Memcache. If not, query from DB and store in MemCache. Now it can be accessed from MemCache frequently. Now also add an expiration date on this datum, so that if it has not been accessed for a while then it can be deleted from MemCache automatically.
 
 
 Replication - Copying of data to multiple machines in case one or more them fail.
@@ -84,3 +85,31 @@ Sharding -  With most huge systems, data does not fit on a single machine. In su
 
 
 CAP Theorem - It states that a distributed system cannot simultaneously guarantee all these 3 - consistency, availability, partition tolerance. http://ksat.me/a-plain-english-introduction-to-cap-theorem/
+
+
+The advantage of a slave-master DB setup:
+Ignoring the step where data is replicated to the slaves, the master is mainly used for write operations while the slaves are mainly used for read operations. This makes operations faster.
+Also, since the master is being continuously used for write operations, the disk head does not need to go back and forth over the disk to find the right place to write data. It always starts close to where it left off. This again makes it faster.
+Then there's the obvious benefit of having backups. When the master goes down, a slave replaces it.
+
+
+Shared Web Hosts vs Virtual Private Servers:
+The 1st is sharing resources, like RAM and disk space among users. This is cheaper but slows in performance quickly.
+
+
+Scaling:
+ - When introducing multiple servers, you need to distribute client requests across them.
+ - This is done using a load balancer.
+ - This means that the clients now only need to know the IP address of the load balancer rather than multiple servers.
+ - One problem with distributing requests across identical servers is that the load balancer needs to constantly ask each server 'how busy are you right now?', so that it can decide which server to send it to. An alternate to this would be to make one server for gifs, one for html, etc.
+ - A DNS server and load balancer could be the same machine?
+
+ - If you click a link on a website, we already know the name of the website and hence there's no need to query the DNS again. This saves time. The name can be stored in cache.
+
+ - Another problem with distributing data over identical servers is that you could save partial data in each, like when you are adding items to a shopping cart. Each server could have only 1 item, and when you want to checkout most of the items would be missing.
+ - One solution to this problem is that there could be one dedicated server for storing information related to 'state' or 'sessions'. This means that all the identical servers will store the items in shopping cart to the 'state' server. However, this isn't the best solution as it puts reliance one a single machine.
+ - Another solution would be to use 'RAID' disks, where data is written to multiple disks at the same time.
+
+
+
+Log files are ideally best store in compressed state, since they are not accessed often and a lot of space can be saved.
